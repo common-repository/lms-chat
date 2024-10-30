@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"X-Generator: babel-plugin-makepot\n"
+
+#: src/frontend.js:402
+msgid "Active Now"
+msgstr ""
+
+#: src/frontend.js:402
+msgid "Inactive Now"
+msgstr ""
+
+#: src/frontend.js:515
+msgid "Lms Loader"
+msgstr ""
+
+#: src/frontend.js:555
+msgid "User limit is over for this course, please use"
+msgstr ""
+
+#: src/frontend.js:555
+msgid " pro version "
+msgstr ""
+
+#: src/frontend.js:555
+msgid "for unlimited user."
+msgstr ""
+
+#: src/frontend.js:566
+msgid "Messages"
+msgstr ""
+
+#: src/frontend.js:577
+msgid "Search"
+msgstr ""
+
+#: src/frontend.js:590
+msgid "All Participants"
+msgstr ""
+
+#: src/frontend.js:681
+msgid "Today"
+msgstr ""
+
+#: src/frontend.js:682
+msgid "Yesterday"
+msgstr ""
+
+#: src/frontend.js:729
+msgid "Attachment"
+msgstr ""
+
+#: src/frontend.js:732
+msgid "Download Attachment"
+msgstr ""
